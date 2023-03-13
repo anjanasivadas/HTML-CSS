@@ -1,0 +1,26 @@
+.d1
+{
+    background-color: blue;
+    height: 50px; 
+    height: 50px;
+    width: 100px;
+    
+}
+.d2
+{
+    background-color: red;
+    height: 50px;
+    width: 100px;
+}
+.d3
+{
+    background-color: green;
+    height: 50px;
+    width: 100px;
+    border-color: red;
+}
+.par{
+    display: flex;
+    justify-content: center;
+    justify-content: space-evenly;
+}
